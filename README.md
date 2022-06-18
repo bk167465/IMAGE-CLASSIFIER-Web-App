@@ -1,1 +1,1 @@
-# IMAGE-CLASSIFIER-Web-App
+# Image-Classifier-Web-App
